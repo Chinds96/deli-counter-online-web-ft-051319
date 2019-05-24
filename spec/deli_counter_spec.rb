@@ -1,4 +1,4 @@
-require 
+require spec_helper
 describe 'Deli Counter' do
 
   let(:katz_deli) { [] }
